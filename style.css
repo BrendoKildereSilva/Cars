@@ -348,11 +348,10 @@ main{
    
   }
 
-
-  
-
   .swiper-vertical > .swiper-pagination-bullets, .swiper-pagination-vertical.swiper-pagination-bullets{
-    top: 15% !important;
+    top: 70px !important;
+    right: 10px !important;
+    transform: translate3d(0px, 0%, 0) !important;
   }
   
   .swiper-vertical > .swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-vertical.swiper-pagination-bullets .swiper-pagination-bullet{
